@@ -24,9 +24,9 @@ wheels/
 venv/
 ENV/
 .env
-groqenv/  # Your specific environment name
 env/
-
+.groqvenv
+groqvenv/
 # VS Code
 .vscode/
 *.code-workspace
